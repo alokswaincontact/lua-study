@@ -41,3 +41,6 @@ luac.out
 
 # VIM Backup files
 *.swp
+
+#Ignore Me
+*.DS_Store
